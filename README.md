@@ -7,13 +7,13 @@ This project integrates **MySQL databases**, **Python processing**, and **Power 
 ## Project Structure
 project_1_ltv_attribution/
 ├─ powerbi/
-│ └─ Dashboard_P1.pbix # Final Power BI dashboard (LFS)
-├─ sql/ # SQL scripts to create and populate tables
-├─ scripts/ # Python ETL scripts
-├─ data/ # (optional) sample data
-├─ requirements.txt # Python dependencies
-├─ .env.example # Example environment variables
-└─ README.md # This file
+│  └─ Dashboard_P1.pbix      # Final Power BI dashboard (LFS)
+├─ sql/                      # SQL scripts to create and populate tables
+├─ scripts/                  # Python ETL scripts
+├─ data/                     # (optional) sample data
+├─ requirements.txt          # Python dependencies
+├─ .env.example              # Example environment variables
+└─ README.md                 # This file
 
 
 
@@ -81,5 +81,6 @@ Sample data is fictional and does not represent real customer information.
 
 ## Credits
 Project developed as part of a data analytics portfolio, integrating SQL, Python, and Power BI.
+
 
 
